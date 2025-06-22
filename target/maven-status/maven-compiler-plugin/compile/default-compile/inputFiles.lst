@@ -1,6 +1,6 @@
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/HenApplication.java
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/dto/ShedDTO.java
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/model/HenModel.java
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/repository/HenRepository.java
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/rest/HenRest.java
-/workspaces/NPH/src/main/java/pe/edu/vallegrande/service/HenService.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/HenApplication.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/controller/HenController.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/dto/ShedDTO.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/model/HenModel.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/repository/HenRepository.java
+/workspaces/ms/src/main/java/pe/edu/vallegrande/service/HenService.java
